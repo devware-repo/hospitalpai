@@ -32,7 +32,7 @@ if(function_exists('date_default_timezone_set')){date_default_timezone_set('Amer
 define('DB_NAME', 'hospi734_wrdp1');
 
 /** MySQL database username */
-define('DB_USER', 'hospi734_wrdp1');
+define('DB_USER', 'root');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'p415b52017');
