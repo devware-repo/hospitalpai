@@ -1,0 +1,2 @@
+2019-07-03T20:42:39+00:00 CRITICAL Call to undefined method Hustle_Db::modules_table(), em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-popup/inc/hustle-module-collection.php, na linha 132
+

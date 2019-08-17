@@ -1,0 +1,14 @@
+2019-07-02T14:14:24+00:00 CRITICAL Class 'WPGMZA\GlobalSettings' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/includes/class.plugin.php, na linha 63
+
+2019-07-02T14:14:24+00:00 CRITICAL Class 'WPGMZA\GlobalSettings' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/includes/class.plugin.php, na linha 63
+
+2019-07-02T14:14:25+00:00 CRITICAL Uncaught exception 'Exception' with message 'Fatal error: wpgmza_require_once(): Failed opening required '/home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/includes/class.google-maps-api-loader.php'' in /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/legacy-core.php:8
+Stack trace:
+#0 /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/legacy-core.php(158): wpgmza_require_once('/home/hospi734/...')
+#1 [internal function]: wpgmza_enqueue_scripts('')
+#2 /home/hospi734/public_html/hospitalpai.com.br/wp-includes/class-wp-hook.php(286): call_user_func_array('wpgmza_enqueue_...', Array)
+#3 /home/hospi734/public_html/hospitalpai.com.br/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home/hospi734/public_html/hospitalpai.com.br/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/hospi734/public_html/hospitalpai.com.br/wp-includes/script-loader.php(2463): do_action('wp_enqueue_scri...')
+#6 [in, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/legacy-core.php, na linha 8
+

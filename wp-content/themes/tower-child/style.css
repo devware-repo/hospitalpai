@@ -1,0 +1,26 @@
+/*
+ Theme Name:     Tower Child
+ Theme URI:      http://codeless.co
+ Description:    Tower Child Theme
+ Author:         Codeless
+ Author URI:     http://www.codeless.co
+ Template:       tower
+ Version:        1.0.0
+*/
+
+@import url("../tower/style.css");
+
+.header_tools .extra_navigation_button {
+    display: none;
+}
+
+
+@media (max-width: 767px)
+.header_page.centered h1 {
+    margin-top: -180px;
+}
+
+@media (max-width: 767px)
+.header_page.centered h5 {
+    display: none!important;
+}

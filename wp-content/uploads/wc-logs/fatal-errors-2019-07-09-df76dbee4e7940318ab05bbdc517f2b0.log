@@ -1,0 +1,18 @@
+2019-07-09T02:14:16+00:00 CRITICAL Class 'WPGMZA\GlobalSettings' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wp-google-maps/includes/class.plugin.php, na linha 63
+
+2019-07-09T14:15:34+00:00 CRITICAL Class 'WPSEO_Admin_Bar_Menu' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/inc/wpseo-non-ajax-functions.php, na linha 20
+
+2019-07-09T14:15:34+00:00 CRITICAL require_once(): Failed opening required '/home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php' (include_path='.:/opt/php55/lib/php'), em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/wp-seo-main.php, na linha 294
+
+2019-07-09T14:15:35+00:00 CRITICAL Class 'WPSEO_Frontend' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php, na linha 19
+
+2019-07-09T14:15:37+00:00 CRITICAL Class 'Yoast_Notification_Center' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/wp-seo-main.php, na linha 560
+
+2019-07-09T14:15:37+00:00 CRITICAL Class 'Yoast_Notification_Center' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/wp-seo-main.php, na linha 560
+
+2019-07-09T14:15:40+00:00 CRITICAL Class 'WPSEO_Frontend' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php, na linha 19
+
+2019-07-09T14:15:41+00:00 CRITICAL Class 'WPSEO_Frontend' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/inc/wpseo-functions.php, na linha 19
+
+2019-07-09T14:15:42+00:00 CRITICAL Class 'Yoast_Notification_Center' not found, em /home/hospi734/public_html/hospitalpai.com.br/wp-content/plugins/wordpress-seo/wp-seo-main.php, na linha 560
+
